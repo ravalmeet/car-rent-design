@@ -88,6 +88,27 @@ function App() {
                 <p class="hero-text">
                   Live in India, New Jerset and Connecticut!
                 </p>
+                <div className="mb">
+                <a
+                  href="https://www.kobinet.com.tr/"
+                  target="_blank"
+                  class="market-btn apple-btn"
+                  role="button"
+                >
+                  <span class="market-button-subtitle">Download on the</span>
+                  <span class="market-button-title">App Store</span>
+                </a>
+
+                <a
+                  href="https://www.kobinet.com.tr/"
+                  target="_blank"
+                  class="market-btn ml google-btn"
+                  role="button"
+                >
+                  <span class="market-button-subtitle">Download on the</span>
+                  <span class="market-button-title">Google Play</span>
+                </a>
+                </div>
               </div>
 
               <div class="hero-banner"></div>
