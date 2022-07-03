@@ -90,7 +90,7 @@ function App() {
                 </p>
                 <div className="mb">
                 <a
-                  href="https://www.kobinet.com.tr/"
+                  href="https://raval.vercel.app/"
                   target="_blank"
                   class="market-btn apple-btn"
                   role="button"
@@ -100,7 +100,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://www.kobinet.com.tr/"
+                  href="https://raval.vercel.app/"
                   target="_blank"
                   class="market-btn ml google-btn"
                   role="button"
